@@ -1535,7 +1535,7 @@ h2 {
   opacity: 0.8;
 }
 .cer-section {
-  background: #0f0000;
+  background: #00000f;
   padding: 70px 20px;
   text-align: center;
   color: #fff;
@@ -1729,7 +1729,7 @@ h2 {
 }
 /* ===== SECTION BASE ===== */
 .benefit-section {
-  background: #140808;
+  background: #080a14;
   color: var(--secondary-color);
   padding: 100px 20px;
   font-family: var(--primary-font);
